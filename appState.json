@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "dd2d022a-3141-4a77-89cc-075ea64ec445": {
+        "id": "dd2d022a-3141-4a77-89cc-075ea64ec445",
+        "parent": null,
+        "name": "play-demo.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "play-demo.js",
+        "cursor": {
+          "lineNumber": 4,
+          "column": 3
+        },
+        "config": {
+          "runtime": "nodejs14.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "playDemo"
+        },
+        "triggers": [],
+        "lastUpdated": 1650363059314
+      }
+    },
+    "openFiles": [
+      "dd2d022a-3141-4a77-89cc-075ea64ec445"
+    ],
+    "currentFileId": "dd2d022a-3141-4a77-89cc-075ea64ec445",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.10.0",
+    "projectName": "play-demo",
+    "projectDescription": "play-demo",
+    "projectVersion": "1.0.0",
+    "projectRegion": "ap-southeast-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1650363087402
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "play-demo",
+      "url": "https://github.com/wohlig/play-demo"
+    }
+  }
+}
